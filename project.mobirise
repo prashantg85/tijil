@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 1,
+    "uniqCompNum": 4,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -87,6 +87,46 @@
           "title": "AMARAVATHI SERVICE &amp; BUSINESS CONSULTANTS",
           "text": "“We listen, understand, question, visualize, research, and commit together to deliver quality on time.” Understand client needs Swiftly find matching talent Focus on quality Strong, long-term relationships Speed of delivery We not only provide recruitment consultancy service to our clients but help them to get human assets.\"",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://tijilhms.xyz/amaravathi/login\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          },
+          "text1": "<p><strong>Address</strong><br>Near Bandlamudi Gardens,</p>Amaravathi Road,<br>Guntur<p><br>\n<strong>Contacts</strong><br>\nEmail: mktg.rrbc@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;<br>\nPhone: 0091-9908119570<br>\nFax:&nbsp;</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li>www.rrbconline.in</li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-2",
+          "_params": {
+            "googleMap": {
+              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
+              "address": "350 5th Ave, New York, NY 10118",
+              "state": "ok"
+            }
+          }
         }
       ]
     }
